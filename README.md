@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jmiguelem
-- 👀 I’m interested in most of the areas in Computer Science, right now im trying to find my path, and i think the best way is by work experience
+- 👀 I’m interested in most of the areas in Computer Science, but im trying to focus on Data Analytics and Web Development
+-  right now im trying to find my path, and i think the best way is by work experience
 - 🌱 I’m currently learning python/js
 - 📫 How to reach me: 
   Outlook: miguel.elizaldem@outlook.com 
