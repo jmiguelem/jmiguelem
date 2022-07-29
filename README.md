@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jmiguelem Miguel Elizalde a 21 years old Computer Science student
-- 👀 I’m interested in most of the areas in Computer Science, but im trying to focus on Data Analytics and Web Development
--  right now im trying to find my path, and i think the best way is by work experience
-- 🌱 I’m currently learning python/js
+- 👋 Hi, I’m @jmiguelem Miguel Elizalde a 22 years old Computer Science student
+- 👀 I’m interested in most of the areas in Computer Science, but im trying to focus on Data Analytics and Data Science
+- 🌱 I’m currently learning python
 - 📫 How to reach me: 
   Outlook: miguel.elizaldem@outlook.com 
   Gmail: miguel.elizalde.mon@gmail.com
