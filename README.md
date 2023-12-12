@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmiguelem Miguel Elizalde a 23 years old Computer Science Engineer
+- 👋 Hi, I’m @jmiguelem Miguel Elizalde a 24 years old Computer Science Engineer
 - 👀 I’m interested in most of the areas in Computer Science, but im trying to focus on Data Analytics and Data Engineer
 - 📫 How to reach me: 
   Outlook: miguel.elizaldem@outlook.com 
